@@ -33,17 +33,6 @@ const SocialLinks = () => {
       ),
       href: "mailto:umutnl@hotmail.com",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "resume.pdf",
-      style: "rounded-br-md",
-      download: true,
-    },
   ];
 
   return (

@@ -4,7 +4,6 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 
@@ -60,12 +59,7 @@ const Experience = () => {
       style: "shadow-gray-500",
     },
 
-    {
-      id: 8,
-      src: graphql,
-      title: "Graphql",
-      style: "shadow-pink-400",
-    },
+  
 
   ];
 
